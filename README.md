@@ -23,3 +23,9 @@ ECOMMERCE DASGHBOARD:
 <img width="1467" height="568" alt="Screenshot 2026-02-25 102407" src="https://github.com/user-attachments/assets/205b1c61-1012-485c-9a74-179a77b1164a" />
 
 ECOMMERCE DASHBOARD E-Commerce Sales Data – Insights The analysis shows consistent year-over-year growth in sales and profit from 2011 to 2014, with peak performance in Q4 (October–December). The Consumer segment contributes the highest share of revenue and shipping cost, and Standard Class shipping is the most preferred mode. Technology and furniture sub-categories generate higher sales and profits, while some office supplies contribute lower margins. Overall, the dashboard reveals strong business growth, seasonal trends, and key revenue-driving segments.
+
+EMPLOYEE DASHBOARD:
+
+<img width="1330" height="682" alt="image" src="https://github.com/user-attachments/assets/c056455c-0bf6-49c3-8f5b-4dd1f47a9041" />
+
+
