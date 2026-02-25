@@ -28,4 +28,6 @@ EMPLOYEE DASHBOARD:
 
 <img width="1330" height="682" alt="image" src="https://github.com/user-attachments/assets/c056455c-0bf6-49c3-8f5b-4dd1f47a9041" />
 
+This HR Dashboard provides a comprehensive overview of key workforce metrics and organizational insights. At the top, it highlights summary indicators such as total employees (100,000), attrition rate (15.01%), average KPI score (78.62), average engagement score (59.60), average projects handled (8), and average salary (71,291). The dashboard visually analyzes attrition status by department and location, enabling quick identification of trends across regions like Bangalore, Delhi, Mumbai, and others. It also presents comparisons by hiring source, performance scores by department and job level, training impact on performance, gender distribution, and salary comparisons. Interactive filters on the right side allow users to refine data by attrition status, department, gender, job category, location, and job level, making the dashboard a dynamic tool for monitoring employee performance, engagement, retention, and compensation across the organization.
+
 
